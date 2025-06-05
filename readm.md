@@ -32,7 +32,7 @@ http://localhost:3000/login
 json 
 
 {
-    "nome": "Test User",
+    "nome": "nome",
     "perfil": "tecnico"
 }
 
@@ -46,7 +46,7 @@ http://localhost:3000/assinar
 json 
 {
     "id": 1,
-    "nome": "carlos daniel",
+    "nome": "nome",
     "perfil": "tecnico"
 }
 
